@@ -28,6 +28,8 @@ env/
 Thumbs.db
 
 # Project Specific
-biasguard-ai/frontend/node_modules/
-biasguard-ai/backend/venv/
-biasguard-ai/backend/__pycache__/
+frontend/node_modules/
+backend/venv/
+backend/__pycache__/
+frontend/dist/
+backend/.env
