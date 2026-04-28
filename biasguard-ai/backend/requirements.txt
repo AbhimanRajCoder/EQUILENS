@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+shap
+stable-baselines3
+gymnasium
+requests
+reportlab
+httpx
+python-dotenv
